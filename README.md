@@ -8,6 +8,7 @@ I have a Master's degree in Machine Learning and Business Analytics, and worked 
 - 🌱 I’m currently learning Unit Testing, Advanced OOP and DevOps.
 - 💬 Ask me about Python, Machine Learning and SQL
 - 📫 Drop me a message on [LinkedIn](https://www.linkedin.com/in/bence-l-toth).
+- 🗞️ Read my articles on [Medium](https://medium.com/@benceltoth).
 - ⚡ Fun fact: I used to be a guitarist in a wedding band 🎸
 
 <p align="center">
